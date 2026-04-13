@@ -75,6 +75,8 @@ Built a small function where you can type any review text and it tells you if it
 
 Logistic Regression did the best, followed closely by Linear SVM. Naive Bayes was decent but fell behind on the minority (negative) class. 
 
+<img width="1154" height="538" alt="Image" src="https://github.com/user-attachments/assets/8749ebec-58f7-411d-8af9-29c12f83e170" />
+
 ---
 
 ## What I used
