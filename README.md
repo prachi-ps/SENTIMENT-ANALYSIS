@@ -73,7 +73,7 @@ Built a small function where you can type any review text and it tells you if it
 
 ## Results
 
-Linear SVM did the best, followed closely by Logistic Regression. Naive Bayes was decent but fell behind on the minority (negative) class. 
+Logistic Regression did the best, followed closely by Linear SVM. Naive Bayes was decent but fell behind on the minority (negative) class. 
 
 ---
 
@@ -89,7 +89,7 @@ Linear SVM did the best, followed closely by Logistic Regression. Naive Bayes wa
 
 ## How to run it
 
-1. Open `Claude_Sentiment_Analysis_Amazon_Alexa.ipynb` in Google Colab or Jupyter
+1. Open `Sentiment_Analysis.ipynb` in Google Colab or Jupyter
 2. Upload `amazon_alexa.tsv` to the same working directory
 3. Run all cells from top to bottom
 
