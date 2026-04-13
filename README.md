@@ -44,7 +44,7 @@ Cleaned raw text using:
 - Lowercasing everything
 - Removing URLs, HTML tags, punctuation, and numbers (with regex)
 - Removing stopwords (common words like "the", "is", "a")
-- Lemmatization — converting words to their root form ("loving" -> "love")
+- Lemmatization - converting words to their root form ("loving" -> "love")
 
 **3. Word Clouds + Frequency Charts**  
 Made word clouds separately for positive and negative reviews. Positive reviews are full of words like love, great, easy, music. Negative ones kept showing problem, connect, return, issue, mostly connectivity and hardware complaints.
@@ -79,7 +79,7 @@ Logistic Regression did the best, followed closely by Linear SVM. Naive Bayes wa
 
 ---
 
-## What I used
+## Tech Stack
 
 - Python 3.10
 - pandas, numpy
